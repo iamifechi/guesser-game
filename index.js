@@ -1,4 +1,5 @@
 /* Random Guess App by @iam_ifechi */
+const prompt = require('prompt-sync')({ sigint: true });
 
 const GuessApp = (
     function App() {

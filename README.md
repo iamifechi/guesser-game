@@ -1,3 +1,3 @@
-#Random Number Guess App
-Live - https://replit.com/@iamifechi/Guess-game
-Language -Node.JS
+## Random Number Guess App
+#### Live - [view on Replit.com](https://replit.com/@iamifechi/guesser-game)
+###### Language -Node.JS
